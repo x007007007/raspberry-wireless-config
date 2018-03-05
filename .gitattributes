@@ -1,0 +1,1 @@
+src/nmcli_wireless_config/_version.py export-subst

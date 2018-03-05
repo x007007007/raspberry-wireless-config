@@ -1,0 +1,2 @@
+include versioneer.py
+include src/nmcli_wireless_config/_version.py
